@@ -126,9 +126,7 @@ export default function App() {
       },
   ];
   
-let buttonClicked = () => {
-  alert("button Clicked")
-}
+
 
   return (
     <>
