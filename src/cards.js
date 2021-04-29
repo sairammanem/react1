@@ -24,7 +24,7 @@ export default function Card(props){
             <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Free Subdomain</li>
             <li className="text-muted"><span className="fa-li"><i className="fas fa-times"></i></span>Monthly Status Reports</li> */}
           </ul>
-          <a  className="btn btn-block btn-primary text-uppercase" >Button</a>
+          <button href="#" className="btn btn-block btn-primary text-uppercase" >Button</button>
         </div>
       </div>
     </div>
